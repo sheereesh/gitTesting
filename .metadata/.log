@@ -2088,3 +2088,99 @@ Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
 	at java.base/java.lang.Thread.run(Thread.java:831)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:20:34.511
 !MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:17.842
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:17.842
+!MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:20.356
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:20.357
+!MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:25.365
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:25.365
+!MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:30.880
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:30.881
+!MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:33.887
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:33.887
+!MESSAGE gitTesting does not exist
+
+!ENTRY org.testng.eclipse 4 4 2022-02-25 13:41:35.389
+!MESSAGE Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): gitTesting does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:574)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2502)
+	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:2413)
+	at org.eclipse.jdt.internal.core.JavaProject.getResolvedClasspath(JavaProject.java:2486)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getResolvedClasspathEntry(PackageFragmentRoot.java:624)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.mineForTests(TestCodeMiningProvider.java:60)
+	at org.testng.eclipse.ui.codemining.TestCodeMiningProvider.lambda$0(TestCodeMiningProvider.java:40)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2022-02-25 13:41:35.389
+!MESSAGE gitTesting does not exist
